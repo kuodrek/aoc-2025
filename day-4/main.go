@@ -7,8 +7,8 @@ import (
 )
 
 func main() {
-	// var file_path string = "/home/kuodr/Documents/aoc-2025/day-4/test_input.txt"
-	var file_path string = "/home/kuodr/Documents/aoc-2025/day-4/input.txt"
+	// var file_path string = "day-4/test_input.txt"
+	var file_path string = "day-4/input.txt"
 
 	file, _ := os.Open(file_path)
 
